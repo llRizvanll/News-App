@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrendingNewsApp</string>
+    <string name="image_desc">This is an Image</string>
+    <string name="sample_source">Sample Source</string>
+    <string name="sample_title">Sample Title</string>
+    <string name="sample_title_long">Sample Title Long</string>
+    <string name="sample_description">Sample Description</string>
+    <string name="button_read_full_story">read full story</string>
+</resources>
